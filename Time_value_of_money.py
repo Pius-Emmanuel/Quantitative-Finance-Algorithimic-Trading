@@ -37,8 +37,7 @@ if __name__ == '__main__':
 	
 	
 	x = float(input("value of investment ($): "))
-	u = float(input("Interest rate (%): "))
-	r = u/100
+	r = float(input("Interest rate (%): "))/100
 	n = int(input("Duration (years): "))
 	print(f"Future value (discrete model) of x: %s {future_discrete_value(x, r, n)}")
 	print(f"Present value (discrete model) of x: %s {present_discrete_value(x, r, n)}")
