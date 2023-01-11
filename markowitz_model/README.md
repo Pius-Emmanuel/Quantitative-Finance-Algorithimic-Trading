@@ -7,8 +7,8 @@
 
 2. Choose a target return for the portfolio.
 
-Use a optimization algorithm to find the weights of the assets in the portfolio that minimize the variance for the target return. This step is known as Mean-Variance Optimization.
+3. Use a optimization algorithm to find the weights of the assets in the portfolio that minimize the variance for the target return. This step is known as Mean-Variance Optimization.
 
-The result of this optimization is a set of weights for each asset that when combined will give the optimal portfolio for the given risk-return trade-off.
+4. The result of this optimization is a set of weights for each asset that when combined will give the optimal portfolio for the given risk-return trade-off.
 
-It's important to note that the assumption of normally distributed returns is not always met in practice. Furthermore the historical expected return and covariance matrix are not always a good estimates of the future returns and volatilities.
+* It's important to note that the assumption of normally distributed returns is not always met in practice. Furthermore the historical expected return and covariance matrix are not always a good estimates of the future returns and volatilities.
