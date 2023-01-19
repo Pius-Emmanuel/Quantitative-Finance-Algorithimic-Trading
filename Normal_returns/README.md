@@ -1,0 +1,2 @@
+# Normal Returns
+* Normal returns refer to the expected or average returns of an investment over a specific period of time, such as a year or a decade. They are often used as a benchmark for evaluating the performance of a particular investment or portfolio. The normal return is typically calculated using historical data and assumes a bell-shaped distribution, also known as a normal distribution. It is important to note that past performance is not indicative of future results and that actual returns may vary significantly from the normal or expected returns.
